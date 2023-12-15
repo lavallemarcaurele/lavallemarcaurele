@@ -4,4 +4,11 @@
 
 Je suis développeur Full Stack en alternance chez Dalt et étudiant en MSC à Epitech.
 
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=lavallemarcaurele&layout=compact) ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lavallemarcaurele&theme=default)
+<p align="left">
+  <a href="https://github.com/lavallemarcaurele">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavallemarcaurele&layout=compact&theme=dark" height="165"/>
+  </a>
+  <a href="https://github.com/lavallemarcaurele">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=lavallemarcaurele&theme=dark" height="165"/>
+  </a>
+</p>
