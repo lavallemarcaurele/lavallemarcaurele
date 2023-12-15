@@ -5,10 +5,6 @@
 Je suis développeur Full Stack en alternance chez Dalt et étudiant en MSC à Epitech.
 
 <p align="left">
-  <a href="https://github.com/lavallemarcaurele">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavallemarcaurele&layout=compact&theme=dark" height="165"/>
-  </a>
-  <a href="https://github.com/lavallemarcaurele">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=lavallemarcaurele&theme=dark" height="165"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavallemarcaurele&layout=compact&theme=dark" height="165"/>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=lavallemarcaurele&theme=dark" height="165"/>
 </p>
