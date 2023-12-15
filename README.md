@@ -6,4 +6,5 @@ Je suis développeur Full Stack en alternance chez Dalt et étudiant en MSC à E
 
 ## Contactez-moi
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-lavallemarcaurele-blue)](https://www.linkedin.com/in/lavallemarcaurele/) [![Email](https://img.shields.io/badge/Email-lavallemarcaurele%40gmail.com-red)](mailto:lavallemarcaurele@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/lavallemarcaurele/)](https://www.linkedin.com/in/lavallemarcaurele/)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lavallemarcaurele@gmail.com)](mailto:lavallemarcaurele@gmail.com)
