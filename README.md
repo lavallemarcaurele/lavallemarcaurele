@@ -3,8 +3,3 @@
 [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lavallemarcaurele@gmail.com)](mailto:lavallemarcaurele@gmail.com)
 
 Je suis développeur Full Stack chez Dalt
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavallemarcaurele&layout=compact&theme=dark" height="165"/>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=lavallemarcaurele&theme=dark" height="165"/>
-</p>
