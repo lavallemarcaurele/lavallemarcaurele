@@ -39,4 +39,4 @@ C'est ce genre de chose que je publie.
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/lavallemarcaurele/) · [Email](mailto:lavallemarcaurele@gmail.com)
+[X](https://x.com/marcorheyy) · [LinkedIn](https://www.linkedin.com/in/lavallemarcaurele/) · [Email](mailto:lavallemarcaurele@gmail.com)
