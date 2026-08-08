@@ -1,8 +1,7 @@
 # Marc-Aurèle Lavalle
 
-Je fais du SEO local pour des artisans dans le Nord, et j'écris mes propres outils pour tenir
-la charge tout seul. Ce sont des **skills Claude Code** : elles collectent, croisent et
-produisent les rapports que je ferais à la main sinon.
+J'automatise mon SEO avec Claude Code. Plutôt que de refaire chaque mois les mêmes analyses à
+la main, j'écris des **skills** qui collectent, croisent et produisent les rapports à ma place.
 
 Elles tournent sur 6 sites en production. Je les ouvre une par une.
 
